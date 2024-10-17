@@ -6,7 +6,7 @@ I’m interested in Front-End collaboration, I have knowledge in Javascript, Css
 I’m currently learning React, my idea is finish this course and take one course in Backend <br>
 I’m looking to collaborate on Projects <br>
 
-<a href="https://www.linkedin.com/in/eric-ruiz-rojas/" rel="nofollow">
+<a href="https://www.linkedin.com/in/eric-ruiz-rojas/?locale=en_US" rel="nofollow">
 <img align="left" alt="Eric Ruiz" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width: 100%;">
 
 <!---
